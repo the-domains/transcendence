@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TRANSCENDENCE]]></title>
+        <description><![CDATA[TRANSCENDENCE]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 19:38:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We can count the seeds in an apple but not the apples in a seed.</p>]]></description>
+            <link>undefinedwe-can-count-the-seeds-in-an-apple-but-not-the-apples-in-a-s/index.html</link>
+            <guid isPermaLink="false">34e6a04a-4ae5-470c-83c7-1cd69754414a</guid>
+            <pubDate>Wed, 17 Aug 2016 19:38:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
