@@ -1,0 +1,28 @@
+name: TRANSCENDENCE
+favicon: null
+layout_spectrum: 0.2957879425957799
+typography_spectrum: 0.8823281319346279
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3870283989235759
+  lightness: 0.28412896138615906
+  saturation: 0.7657915842719376
+  rhythmicContrast: 0.04807768436148763
+purpose: []
